@@ -31,3 +31,8 @@ Three python codes:
 1. Run gen_dataset.py
 2. Run gen_vocab.py
 3. Run search.py
+
+# Requirements
+Install OpenCV with contrib  
+Install SciPy  
+Install Cassandra  
