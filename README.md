@@ -33,6 +33,6 @@ Three python codes:
 3. Run search.py
 
 # Requirements
-Install OpenCV with contrib  
-Install SciPy  
+Install OpenCV with contrib
 Install Cassandra  
+Python Libraries including SciPy, NumPy, Vincenty
