@@ -45,7 +45,9 @@ API_KEY = "AIzaSyAxnyL1XvyItXaU2MAq2u3Jzn9RYYSiSaA"
 
 # Initialize Cassandra database
 cluster = Cluster()
-session = cluster.connect("bovw")
+session = cluster.connect()
+session.execute("CREATE KEYSPACE IF NOT EXISTS bovw WITH replication = {'class':'SimpleStrategy', 'replication_factor' : 1}")
+session.set_keyspace("bovw")
 if not TEST_IMAGES:
     session.execute("DROP TABLE IF EXISTS LOCATIONS")
     session.execute("CREATE TABLE LOCATIONS(FILENAME TEXT PRIMARY KEY, LAT DOUBLE, LON DOUBLE)")
