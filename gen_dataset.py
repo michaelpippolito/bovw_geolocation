@@ -61,7 +61,7 @@ if not QUIET:
 # Download the image at those coordinates
 count = 0
 for line in open(ROUTE_PATH):
-    if "gpxx:rpt" in line:
+    if "lat=" in line:
         # Parse the latitude and longitude
         lat = line[line.find('lat="') + 5:line.rfind('" lon=')]
         lon = line[line.find('lon="') + 5:line.rfind('"')]
