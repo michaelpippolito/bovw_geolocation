@@ -45,17 +45,17 @@ def compiledataset(session, test_images, model_path, verbose, img_destination):
                 for fov in FOV:
                     # Create the URL String
                     URL = STREET_VIEW_URL + "&location=" + lat + "," + lon + "&heading=" + str(fov) + "&key=" + API_KEY
-                    urllib.urlretrieve(URL, img_destination + "/" + str(count) + ".jpg")
+                    urllib.urlretrieve(URL, img_destination + "/" + str(count) + "_" + str(lat) + "_" + str(lon) + "_" + str(fov) + ".jpg")
 
-                    # Insert image location and name into database
-                    if not test_images:
-                        session.execute(
-                            "INSERT INTO LOCATIONS(FILENAME,LAT,LON,FOV) VALUES('" + str(
-                                count) + ".jpg'," + lat + "," + lon + "," + str(fov) + ")")
-                    else:
-                        session.execute(
-                            "INSERT INTO QUERIES(FILENAME,LAT,LON,FOV) VALUES('" + str(
-                                count) + ".jpg'," + lat + "," + lon + "," + str(fov) + ")")
+                    # # Insert image location and name into database
+                    # if not test_images:
+                    #     session.execute(
+                    #         "INSERT INTO LOCATIONS(FILENAME,LAT,LON,FOV) VALUES('" + str(
+                    #             count) + ".jpg'," + lat + "," + lon + "," + str(fov) + ")")
+                    # else:
+                    #     session.execute(
+                    #         "INSERT INTO QUERIES(FILENAME,LAT,LON,FOV) VALUES('" + str(
+                    #             count) + ".jpg'," + lat + "," + lon + "," + str(fov) + ")")
                     count += 1
 
     if not verbose:

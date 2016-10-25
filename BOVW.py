@@ -9,6 +9,7 @@ import pickle
 from geopy.distance import vincenty
 from scipy.cluster.vq import vq
 from sys import exit
+import os
 
 if __name__ == '__main__':
     print BC.arguments
@@ -26,13 +27,27 @@ if __name__ == '__main__':
         # Now we can switch TEST_IMAGES to be true so our query set is populated and our route folder is parsed
         BOM.compiledataset(session, not BC.TEST_IMAGES, BC.ROUTE_PATH, BC.QUIET, BC.QUERY_PATH)
 
-        # Now we will calculate the individual image features and store them in the database
+        # Now we will calculate the individual image features and store them in the FEATURES database
+        # We will insert the downloaded images into the LOCATIONS and QUERIES database
+        # We will also need to rename each file to not include its FOV in the filename
         session.execute("DROP TABLE IF EXISTS FEATURES")  # Drop old table if it exists
         session.execute("CREATE TABLE FEATURES(FILENAME TEXT PRIMARY KEY, NUM INT)")  # Prep new table for features
 
         ICFeatures = 0  # Initialize to hold features
 
         for image in glob.glob(BC.DATASET_PATH + '/*.jpg'):
+            # LOCATIONS database
+            count = image[image.find('/') + 1:image.find('_')]
+            latlon = image[image.find('_') + 1:image.rfind('_')]
+            lat = latlon[:latlon.find('_')]
+            lon = latlon[latlon.find('_') + 1:]
+            fov = image[image.rfind('_') + 1:image.find('.jpg')]
+            session.execute(
+                "INSERT INTO LOCATIONS(FILENAME,LAT,LON,FOV) VALUES('" + count + ".jpg',"
+                    + lat + "," + lon + "," + fov + ")")
+            os.rename(image, image[:image.find('_')]+'.jpg')
+            image = image[:image.find('_')]+'.jpg'
+
             features = BOM.calcfeatures(image, BC.FEATURES)  # Calculate image features with desired feature type
             # features is a tuple  w/the form (kp, des)
             # features[0]=kp is a list of key points
@@ -52,6 +67,17 @@ if __name__ == '__main__':
             # The database statement inserts the filename as the PK and also the number of features in the image
             session.execute("INSERT INTO FEATURES(FILENAME, NUM) VALUES(%s,%s)",
                             (str(image).split('/')[1], len(features[0])))
+
+        # QUERIES database
+        for image in glob.glob(BC.ROUTE_PATH + '/*.jpg'):
+            count = image[image.find('/') + 1:image.find('_')]
+            latlon = image[image.find('_') + 1:image.rfind('_')]
+            lat = latlon[:latlon.find('_')]
+            lon = latlon[latlon.find('_') + 1:]
+            fov = image[image.rfind('_') + 1:image.find('.jpg')]
+            session.execute(
+                "INSERT INTO QUERIES(FILENAME,LAT,LON,FOV) VALUES('" + count + ".jpg',"
+                    + lat + "," + lon + "," + fov + ")")
 
         codebook = BOM.calccodebook(ICFeatures, BC.CLUSTERING_ALGORITHM, BC.K, BC.K_MEANS_ITERATION)
         pickle.dump(codebook, open(BC.CODEBOOK_PATH, "wb"))
