@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<gpx creator="GPS Visualizer http://www.gpsvisualizer.com/" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<wpt lat="40.7697781" lon="-73.9653009">
+  <name>710 Park Avenue, New York, NY 10021</name>
+</wpt>
+<wpt lat="40.7635944" lon="-73.9694422">
+  <name>40.7635944,-73.9694422</name>
+  <desc>510 Park Ave, New York, NY 10022, USA</desc>
+</wpt>
+<trk>
+  <name>710 Park Avenue, New York, NY 10021 - 510 Park Ave</name>
+  <desc>0.5 mi, 0:04</desc>
+  <trkseg>
+    <trkpt lat="40.76996" lon="-73.96517"></trkpt>
+    <trkpt lat="40.7699" lon="-73.96502"></trkpt>
+    <trkpt lat="40.76984" lon="-73.96488"></trkpt>
+    <trkpt lat="40.76984" lon="-73.96488"></trkpt>
+    <trkpt lat="40.76921" lon="-73.96535"></trkpt>
+    <trkpt lat="40.76858" lon="-73.96579"></trkpt>
+    <trkpt lat="40.76795" lon="-73.96624"></trkpt>
+    <trkpt lat="40.76733" lon="-73.9667"></trkpt>
+    <trkpt lat="40.76672" lon="-73.96717"></trkpt>
+    <trkpt lat="40.76608" lon="-73.96763"></trkpt>
+    <trkpt lat="40.76545" lon="-73.96807"></trkpt>
+    <trkpt lat="40.76482" lon="-73.96852"></trkpt>
+    <trkpt lat="40.7642" lon="-73.96898"></trkpt>
+    <trkpt lat="40.76358" lon="-73.96943"></trkpt>
+  </trkseg>
+</trk>
+</gpx>

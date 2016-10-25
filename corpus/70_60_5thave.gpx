@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<gpx creator="GPS Visualizer http://www.gpsvisualizer.com/" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<wpt lat="40.7711831" lon="-73.9679717">
+  <name>40.7711831,-73.9679717</name>
+  <desc>889 5th Ave, New York, NY 10021, USA</desc>
+</wpt>
+<wpt lat="40.7649079" lon="-73.9725477">
+  <name>40.7649079,-73.9725477</name>
+  <desc>1 E 60th St, New York, NY 10022, USA</desc>
+</wpt>
+<trk>
+  <name>889 5th Ave - 1 E 60th St</name>
+  <desc>0.5 mi, 0:04</desc>
+  <trkseg>
+    <trkpt lat="40.77118" lon="-73.96797"></trkpt>
+    <trkpt lat="40.77116" lon="-73.96799"></trkpt>
+    <trkpt lat="40.77058" lon="-73.96841"></trkpt>
+    <trkpt lat="40.77053" lon="-73.96844"></trkpt>
+    <trkpt lat="40.76991" lon="-73.96891"></trkpt>
+    <trkpt lat="40.76928" lon="-73.96936"></trkpt>
+    <trkpt lat="40.76909" lon="-73.9695"></trkpt>
+    <trkpt lat="40.76865" lon="-73.96982"></trkpt>
+    <trkpt lat="40.76803" lon="-73.97028"></trkpt>
+    <trkpt lat="40.7674" lon="-73.97074"></trkpt>
+    <trkpt lat="40.76677" lon="-73.9712"></trkpt>
+    <trkpt lat="40.76615" lon="-73.97165"></trkpt>
+    <trkpt lat="40.76552" lon="-73.9721"></trkpt>
+    <trkpt lat="40.76492" lon="-73.97256"></trkpt>
+  </trkseg>
+</trk>
+</gpx>

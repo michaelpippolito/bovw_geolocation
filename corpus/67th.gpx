@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<gpx creator="GPS Visualizer http://www.gpsvisualizer.com/" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<wpt lat="40.766569" lon="-73.962957">
+  <name>40.766569,-73.962957</name>
+  <desc>166-198 E 67th St, New York, NY 10065, USA</desc>
+</wpt>
+<wpt lat="40.7692557" lon="-73.9692982">
+  <name>1 East 67th Street, New York, NY 10065</name>
+</wpt>
+<trk>
+  <name>166-198 E 67th St - 1 East 67th Street, New York, NY 10065</name>
+  <desc>0.5 mi, 0:05</desc>
+  <trkseg>
+    <trkpt lat="40.76657" lon="-73.96296"></trkpt>
+    <trkpt lat="40.76723" lon="-73.96452"></trkpt>
+    <trkpt lat="40.76723" lon="-73.96452"></trkpt>
+    <trkpt lat="40.76661" lon="-73.965"></trkpt>
+    <trkpt lat="40.76661" lon="-73.965"></trkpt>
+    <trkpt lat="40.76726" lon="-73.96652"></trkpt>
+    <trkpt lat="40.76733" lon="-73.9667"></trkpt>
+    <trkpt lat="40.7674" lon="-73.96684"></trkpt>
+    <trkpt lat="40.76798" lon="-73.96822"></trkpt>
+    <trkpt lat="40.76798" lon="-73.96822"></trkpt>
+    <trkpt lat="40.76861" lon="-73.96777"></trkpt>
+    <trkpt lat="40.76861" lon="-73.96777"></trkpt>
+    <trkpt lat="40.76926" lon="-73.9693"></trkpt>
+  </trkseg>
+</trk>
+</gpx>

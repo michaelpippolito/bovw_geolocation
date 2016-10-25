@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<gpx creator="GPS Visualizer http://www.gpsvisualizer.com/" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<wpt lat="40.76989" lon="-73.9689081">
+  <name>40.76989,-73.9689081</name>
+  <desc>3 E 68th St, New York, NY 10065, USA</desc>
+</wpt>
+<wpt lat="40.7671825" lon="-73.9624992">
+  <name>168-198 East 68th Street, New York, NY 10065</name>
+</wpt>
+<trk>
+  <name>3 E 68th St - 168-198 East 68th Street, New York, NY 10065</name>
+  <desc>0.7 mi, 0:06</desc>
+  <trkseg>
+    <trkpt lat="40.76991" lon="-73.96891"></trkpt>
+    <trkpt lat="40.76928" lon="-73.96936"></trkpt>
+    <trkpt lat="40.76909" lon="-73.9695"></trkpt>
+    <trkpt lat="40.76865" lon="-73.96982"></trkpt>
+    <trkpt lat="40.76803" lon="-73.97028"></trkpt>
+    <trkpt lat="40.76803" lon="-73.97028"></trkpt>
+    <trkpt lat="40.76735" lon="-73.96868"></trkpt>
+    <trkpt lat="40.76678" lon="-73.96732"></trkpt>
+    <trkpt lat="40.76672" lon="-73.96717"></trkpt>
+    <trkpt lat="40.76663" lon="-73.96698"></trkpt>
+    <trkpt lat="40.76598" lon="-73.96544"></trkpt>
+    <trkpt lat="40.76592" lon="-73.96529"></trkpt>
+    <trkpt lat="40.76581" lon="-73.96503"></trkpt>
+    <trkpt lat="40.76531" lon="-73.96384"></trkpt>
+    <trkpt lat="40.76531" lon="-73.96384"></trkpt>
+    <trkpt lat="40.76583" lon="-73.96347"></trkpt>
+    <trkpt lat="40.76594" lon="-73.96339"></trkpt>
+    <trkpt lat="40.76656" lon="-73.96293"></trkpt>
+    <trkpt lat="40.76719" lon="-73.96248"></trkpt>
+  </trkseg>
+</trk>
+</gpx>

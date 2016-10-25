@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<gpx creator="GPS Visualizer http://www.gpsvisualizer.com/" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<wpt lat="40.7659746" lon="-73.9634881">
+  <name>40.7659746,-73.9634881</name>
+  <desc>168 E 66th St, New York, NY 10065, USA</desc>
+</wpt>
+<wpt lat="40.7686477" lon="-73.9697746">
+  <name>1 East 66th Street, New York, NY 10065</name>
+</wpt>
+<trk>
+  <name>168 E 66th St - 1 East 66th Street, New York, NY 10065</name>
+  <desc>0.4 mi, 0:03</desc>
+  <trkseg>
+    <trkpt lat="40.76598" lon="-73.96348"></trkpt>
+    <trkpt lat="40.76661" lon="-73.965"></trkpt>
+    <trkpt lat="40.76726" lon="-73.96652"></trkpt>
+    <trkpt lat="40.76733" lon="-73.9667"></trkpt>
+    <trkpt lat="40.7674" lon="-73.96684"></trkpt>
+    <trkpt lat="40.76798" lon="-73.96822"></trkpt>
+    <trkpt lat="40.76864" lon="-73.96978"></trkpt>
+  </trkseg>
+</trk>
+</gpx>

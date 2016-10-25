@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<gpx creator="GPS Visualizer http://www.gpsvisualizer.com/" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<wpt lat="40.7640686" lon="-73.9647997">
+  <name>40.7640686,-73.9647997</name>
+  <desc>1069 3rd Ave, New York, NY 10065, USA</desc>
+</wpt>
+<wpt lat="40.766547" lon="-73.971001">
+  <name>816 5th Avenue, New York, NY 10065</name>
+</wpt>
+<trk>
+  <name>1069 3rd Ave - 816 5th Avenue, New York, NY 10065</name>
+  <desc>0.7 mi, 0:06</desc>
+  <trkseg>
+    <trkpt lat="40.76407" lon="-73.96478"></trkpt>
+    <trkpt lat="40.76456" lon="-73.966"></trkpt>
+    <trkpt lat="40.76468" lon="-73.96627"></trkpt>
+    <trkpt lat="40.76475" lon="-73.96637"></trkpt>
+    <trkpt lat="40.76475" lon="-73.96637"></trkpt>
+    <trkpt lat="40.76455" lon="-73.96651"></trkpt>
+    <trkpt lat="40.76411" lon="-73.96683"></trkpt>
+    <trkpt lat="40.76399" lon="-73.96691"></trkpt>
+    <trkpt lat="40.76348" lon="-73.96727"></trkpt>
+    <trkpt lat="40.7632" lon="-73.96749"></trkpt>
+    <trkpt lat="40.76301" lon="-73.96762"></trkpt>
+    <trkpt lat="40.76287" lon="-73.96771"></trkpt>
+    <trkpt lat="40.76287" lon="-73.96771"></trkpt>
+    <trkpt lat="40.7635" lon="-73.96923"></trkpt>
+    <trkpt lat="40.76358" lon="-73.96943"></trkpt>
+    <trkpt lat="40.76364" lon="-73.96958"></trkpt>
+    <trkpt lat="40.76422" lon="-73.97097"></trkpt>
+    <trkpt lat="40.76422" lon="-73.97097"></trkpt>
+    <trkpt lat="40.7643" lon="-73.97091"></trkpt>
+    <trkpt lat="40.76485" lon="-73.97051"></trkpt>
+    <trkpt lat="40.76547" lon="-73.97006"></trkpt>
+    <trkpt lat="40.7661" lon="-73.96961"></trkpt>
+    <trkpt lat="40.7661" lon="-73.96961"></trkpt>
+    <trkpt lat="40.76666" lon="-73.97092"></trkpt>
+  </trkseg>
+</trk>
+</gpx>

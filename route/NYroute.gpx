@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<gpx creator="GPS Visualizer http://www.gpsvisualizer.com/" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<wpt lat="40.7709046" lon="-73.9677519">
+  <name>2 East 70th Street, New York, NY 10021</name>
+</wpt>
+<wpt lat="40.7634696" lon="-73.9672798">
+  <name>40.7634696,-73.9672798</name>
+  <desc>781 Lexington Ave, New York, NY 10065, USA</desc>
+</wpt>
+<trk>
+  <name>2 East 70th Street, New York, NY 10021 - 781 Lexington Ave</name>
+  <desc>1.1 mi, 0:09</desc>
+  <trkseg>
+    <trkpt lat="40.77102" lon="-73.96767"></trkpt>
+    <trkpt lat="40.77091" lon="-73.9674"></trkpt>
+    <trkpt lat="40.77088" lon="-73.96735"></trkpt>
+    <trkpt lat="40.77048" lon="-73.9664"></trkpt>
+    <trkpt lat="40.77048" lon="-73.9664"></trkpt>
+    <trkpt lat="40.77111" lon="-73.96594"></trkpt>
+    <trkpt lat="40.77179" lon="-73.96544"></trkpt>
+    <trkpt lat="40.77248" lon="-73.96494"></trkpt>
+    <trkpt lat="40.77311" lon="-73.96449"></trkpt>
+    <trkpt lat="40.77311" lon="-73.96449"></trkpt>
+    <trkpt lat="40.77253" lon="-73.9631"></trkpt>
+    <trkpt lat="40.77246" lon="-73.96296"></trkpt>
+    <trkpt lat="40.77238" lon="-73.96279"></trkpt>
+    <trkpt lat="40.77174" lon="-73.96124"></trkpt>
+    <trkpt lat="40.77174" lon="-73.96124"></trkpt>
+    <trkpt lat="40.77111" lon="-73.96171"></trkpt>
+    <trkpt lat="40.77043" lon="-73.96222"></trkpt>
+    <trkpt lat="40.76975" lon="-73.96271"></trkpt>
+    <trkpt lat="40.76911" lon="-73.96316"></trkpt>
+    <trkpt lat="40.76848" lon="-73.96361"></trkpt>
+    <trkpt lat="40.76785" lon="-73.96406"></trkpt>
+    <trkpt lat="40.76723" lon="-73.96452"></trkpt>
+    <trkpt lat="40.76661" lon="-73.965"></trkpt>
+    <trkpt lat="40.76598" lon="-73.96544"></trkpt>
+    <trkpt lat="40.76536" lon="-73.9659"></trkpt>
+    <trkpt lat="40.76475" lon="-73.96637"></trkpt>
+    <trkpt lat="40.76455" lon="-73.96651"></trkpt>
+    <trkpt lat="40.76411" lon="-73.96683"></trkpt>
+    <trkpt lat="40.76399" lon="-73.96691"></trkpt>
+    <trkpt lat="40.76348" lon="-73.96727"></trkpt>
+  </trkseg>
+</trk>
+</gpx>

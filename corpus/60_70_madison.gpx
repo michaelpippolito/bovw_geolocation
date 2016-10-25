@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<gpx creator="GPS Visualizer http://www.gpsvisualizer.com/" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<wpt lat="40.7643111" lon="-73.9708766">
+  <name>653-655 Madison Avenue, New York, NY 10065</name>
+</wpt>
+<wpt lat="40.7703029" lon="-73.9665429">
+  <name>40.7703029,-73.9665429</name>
+  <desc>837-841 Madison Ave, New York, NY 10021, USA</desc>
+</wpt>
+<trk>
+  <name>653-655 Madison Avenue, New York, NY 10065 - 837-841 Madison Ave</name>
+  <desc>0.5 mi, 0:02</desc>
+  <trkseg>
+    <trkpt lat="40.76432" lon="-73.97089"></trkpt>
+    <trkpt lat="40.76485" lon="-73.97051"></trkpt>
+    <trkpt lat="40.76547" lon="-73.97006"></trkpt>
+    <trkpt lat="40.7661" lon="-73.96961"></trkpt>
+    <trkpt lat="40.76673" lon="-73.96915"></trkpt>
+    <trkpt lat="40.76735" lon="-73.96868"></trkpt>
+    <trkpt lat="40.76798" lon="-73.96822"></trkpt>
+    <trkpt lat="40.76861" lon="-73.96777"></trkpt>
+    <trkpt lat="40.76923" lon="-73.96731"></trkpt>
+    <trkpt lat="40.76986" lon="-73.96686"></trkpt>
+    <trkpt lat="40.7703" lon="-73.96654"></trkpt>
+  </trkseg>
+</trk>
+</gpx>

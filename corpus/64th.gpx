@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<gpx creator="GPS Visualizer http://www.gpsvisualizer.com/" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<wpt lat="40.7673694" lon="-73.9706929">
+  <name>40.7673694,-73.9706929</name>
+  <desc>2 E 64th St, New York, NY 10065, USA</desc>
+</wpt>
+<wpt lat="40.7647041" lon="-73.9643414">
+  <name>198 East 64th Street, New York, NY 10065</name>
+</wpt>
+<trk>
+  <name>2 E 64th St - 198 East 64th Street, New York, NY 10065</name>
+  <desc>0.5 mi, 0:05</desc>
+  <trkseg>
+    <trkpt lat="40.76738" lon="-73.97069"></trkpt>
+    <trkpt lat="40.76673" lon="-73.96915"></trkpt>
+    <trkpt lat="40.76673" lon="-73.96915"></trkpt>
+    <trkpt lat="40.76735" lon="-73.96868"></trkpt>
+    <trkpt lat="40.76735" lon="-73.96868"></trkpt>
+    <trkpt lat="40.76678" lon="-73.96732"></trkpt>
+    <trkpt lat="40.76672" lon="-73.96717"></trkpt>
+    <trkpt lat="40.76663" lon="-73.96698"></trkpt>
+    <trkpt lat="40.76598" lon="-73.96544"></trkpt>
+    <trkpt lat="40.76598" lon="-73.96544"></trkpt>
+    <trkpt lat="40.76536" lon="-73.9659"></trkpt>
+    <trkpt lat="40.76536" lon="-73.9659"></trkpt>
+    <trkpt lat="40.7647" lon="-73.96434"></trkpt>
+  </trkseg>
+</trk>
+</gpx>

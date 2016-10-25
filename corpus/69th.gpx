@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<gpx creator="GPS Visualizer http://www.gpsvisualizer.com/" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<wpt lat="40.7678088" lon="-73.9620206">
+  <name>40.7678088,-73.9620206</name>
+  <desc>1184 3rd Ave, New York, NY 10065, USA</desc>
+</wpt>
+<wpt lat="40.7705227" lon="-73.9680824">
+  <name>1 East 69th Street, New York, NY 10021</name>
+</wpt>
+<trk>
+  <name>1184 3rd Ave - 1 East 69th Street, New York, NY 10021</name>
+  <desc>0.7 mi, 0:06</desc>
+  <trkseg>
+    <trkpt lat="40.76781" lon="-73.96201"></trkpt>
+    <trkpt lat="40.76848" lon="-73.96361"></trkpt>
+    <trkpt lat="40.76848" lon="-73.96361"></trkpt>
+    <trkpt lat="40.76785" lon="-73.96406"></trkpt>
+    <trkpt lat="40.76723" lon="-73.96452"></trkpt>
+    <trkpt lat="40.76661" lon="-73.965"></trkpt>
+    <trkpt lat="40.76661" lon="-73.965"></trkpt>
+    <trkpt lat="40.76726" lon="-73.96652"></trkpt>
+    <trkpt lat="40.76733" lon="-73.9667"></trkpt>
+    <trkpt lat="40.7674" lon="-73.96684"></trkpt>
+    <trkpt lat="40.76798" lon="-73.96822"></trkpt>
+    <trkpt lat="40.76798" lon="-73.96822"></trkpt>
+    <trkpt lat="40.76861" lon="-73.96777"></trkpt>
+    <trkpt lat="40.76923" lon="-73.96731"></trkpt>
+    <trkpt lat="40.76986" lon="-73.96686"></trkpt>
+    <trkpt lat="40.76986" lon="-73.96686"></trkpt>
+    <trkpt lat="40.77041" lon="-73.96816"></trkpt>
+  </trkseg>
+</trk>
+</gpx>

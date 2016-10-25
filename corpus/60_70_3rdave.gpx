@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<gpx creator="GPS Visualizer http://www.gpsvisualizer.com/" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<wpt lat="40.7621801" lon="-73.9660756">
+  <name>201-203 East 60th Street, New York, NY 10022</name>
+</wpt>
+<wpt lat="40.7684023" lon="-73.961606">
+  <name>40.7684023,-73.961606</name>
+  <desc>1201-1209 3rd Ave, New York, NY 10021, USA</desc>
+</wpt>
+<trk>
+  <name>201-203 East 60th Street, New York, NY 10022 - 1201-1209 3rd Ave</name>
+  <desc>0.5 mi, 0:03</desc>
+  <trkseg>
+    <trkpt lat="40.76217" lon="-73.96608"></trkpt>
+    <trkpt lat="40.76218" lon="-73.96612"></trkpt>
+    <trkpt lat="40.76218" lon="-73.96612"></trkpt>
+    <trkpt lat="40.76228" lon="-73.96605"></trkpt>
+    <trkpt lat="40.76246" lon="-73.96593"></trkpt>
+    <trkpt lat="40.76281" lon="-73.96569"></trkpt>
+    <trkpt lat="40.76345" lon="-73.96522"></trkpt>
+    <trkpt lat="40.76381" lon="-73.96496"></trkpt>
+    <trkpt lat="40.76407" lon="-73.96478"></trkpt>
+    <trkpt lat="40.76469" lon="-73.96431"></trkpt>
+    <trkpt lat="40.76531" lon="-73.96384"></trkpt>
+    <trkpt lat="40.76583" lon="-73.96347"></trkpt>
+    <trkpt lat="40.76594" lon="-73.96339"></trkpt>
+    <trkpt lat="40.76656" lon="-73.96293"></trkpt>
+    <trkpt lat="40.76719" lon="-73.96248"></trkpt>
+    <trkpt lat="40.76781" lon="-73.96201"></trkpt>
+    <trkpt lat="40.7684" lon="-73.9616"></trkpt>
+  </trkseg>
+</trk>
+</gpx>

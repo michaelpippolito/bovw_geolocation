@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<gpx creator="GPS Visualizer http://www.gpsvisualizer.com/" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<wpt lat="40.7628086" lon="-73.965688">
+  <name>40.7628086,-73.965688</name>
+  <desc>1031 3rd Ave, New York, NY 10065, USA</desc>
+</wpt>
+<wpt lat="40.7654884" lon="-73.9720344">
+  <name>1 East 61st Street, New York, NY 10065</name>
+</wpt>
+<trk>
+  <name>1031 3rd Ave - 1 East 61st Street, New York, NY 10065</name>
+  <desc>0.5 mi, 0:05</desc>
+  <trkseg>
+    <trkpt lat="40.76281" lon="-73.96569"></trkpt>
+    <trkpt lat="40.76348" lon="-73.96727"></trkpt>
+    <trkpt lat="40.76348" lon="-73.96727"></trkpt>
+    <trkpt lat="40.7632" lon="-73.96749"></trkpt>
+    <trkpt lat="40.76301" lon="-73.96762"></trkpt>
+    <trkpt lat="40.76287" lon="-73.96771"></trkpt>
+    <trkpt lat="40.76287" lon="-73.96771"></trkpt>
+    <trkpt lat="40.7635" lon="-73.96923"></trkpt>
+    <trkpt lat="40.76358" lon="-73.96943"></trkpt>
+    <trkpt lat="40.76364" lon="-73.96958"></trkpt>
+    <trkpt lat="40.76422" lon="-73.97097"></trkpt>
+    <trkpt lat="40.76422" lon="-73.97097"></trkpt>
+    <trkpt lat="40.7643" lon="-73.97091"></trkpt>
+    <trkpt lat="40.76485" lon="-73.97051"></trkpt>
+    <trkpt lat="40.76485" lon="-73.97051"></trkpt>
+    <trkpt lat="40.76549" lon="-73.97203"></trkpt>
+  </trkseg>
+</trk>
+</gpx>

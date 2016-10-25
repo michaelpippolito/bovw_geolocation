@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<gpx creator="GPS Visualizer http://www.gpsvisualizer.com/" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<wpt lat="40.7635987" lon="-73.968871">
+  <name>521 Park Avenue, New York, NY 10065</name>
+</wpt>
+<wpt lat="40.7696361" lon="-73.9647726">
+  <name>40.7696361,-73.9647726</name>
+  <desc>715 Park Ave, New York, NY 10021, USA</desc>
+</wpt>
+<trk>
+  <name>521 Park Avenue, New York, NY 10065 - 715 Park Ave</name>
+  <desc>0.5 mi, 0:03</desc>
+  <trkseg>
+    <trkpt lat="40.76369" lon="-73.96909"></trkpt>
+    <trkpt lat="40.76411" lon="-73.96878"></trkpt>
+    <trkpt lat="40.76475" lon="-73.96833"></trkpt>
+    <trkpt lat="40.76537" lon="-73.96787"></trkpt>
+    <trkpt lat="40.766" lon="-73.96742"></trkpt>
+    <trkpt lat="40.76663" lon="-73.96698"></trkpt>
+    <trkpt lat="40.76726" lon="-73.96652"></trkpt>
+    <trkpt lat="40.76789" lon="-73.96607"></trkpt>
+    <trkpt lat="40.7685" lon="-73.9656"></trkpt>
+    <trkpt lat="40.76913" lon="-73.96514"></trkpt>
+    <trkpt lat="40.76964" lon="-73.96477"></trkpt>
+  </trkseg>
+</trk>
+</gpx>

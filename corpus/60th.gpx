@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<gpx creator="GPS Visualizer http://www.gpsvisualizer.com/" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<wpt lat="40.7621562" lon="-73.966088">
+  <name>40.7621562,-73.966088</name>
+  <desc>201-203 E 60th St, New York, NY 10022, USA</desc>
+</wpt>
+<wpt lat="40.7646347" lon="-73.9722785">
+  <name>2 East 60th Street, New York, NY 10022</name>
+</wpt>
+<trk>
+  <name>201-203 E 60th St - 2 East 60th Street, New York, NY 10022</name>
+  <desc>0.4 mi, 0:04</desc>
+  <trkseg>
+    <trkpt lat="40.76217" lon="-73.96608"></trkpt>
+    <trkpt lat="40.76218" lon="-73.96612"></trkpt>
+    <trkpt lat="40.76226" lon="-73.96629"></trkpt>
+    <trkpt lat="40.76287" lon="-73.96771"></trkpt>
+    <trkpt lat="40.7635" lon="-73.96923"></trkpt>
+    <trkpt lat="40.76358" lon="-73.96943"></trkpt>
+    <trkpt lat="40.76364" lon="-73.96958"></trkpt>
+    <trkpt lat="40.76422" lon="-73.97097"></trkpt>
+    <trkpt lat="40.76475" lon="-73.9722"></trkpt>
+  </trkseg>
+</trk>
+</gpx>

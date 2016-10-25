@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<gpx creator="GPS Visualizer http://www.gpsvisualizer.com/" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<wpt lat="40.7689868" lon="-73.9632289">
+  <name>955-961 Lexington Avenue, New York, NY 10021</name>
+</wpt>
+<wpt lat="40.7630174" lon="-73.967617">
+  <name>40.7630174,-73.967617</name>
+  <desc>767 Lexington Ave, New York, NY 10065, USA</desc>
+</wpt>
+<trk>
+  <name>955-961 Lexington Avenue, New York, NY 10021 - 767 Lexington Ave</name>
+  <desc>0.5 mi, 0:03</desc>
+  <trkseg>
+    <trkpt lat="40.76899" lon="-73.96325"></trkpt>
+    <trkpt lat="40.76848" lon="-73.96361"></trkpt>
+    <trkpt lat="40.76785" lon="-73.96406"></trkpt>
+    <trkpt lat="40.76723" lon="-73.96452"></trkpt>
+    <trkpt lat="40.76661" lon="-73.965"></trkpt>
+    <trkpt lat="40.76598" lon="-73.96544"></trkpt>
+    <trkpt lat="40.76536" lon="-73.9659"></trkpt>
+    <trkpt lat="40.76475" lon="-73.96637"></trkpt>
+    <trkpt lat="40.76455" lon="-73.96651"></trkpt>
+    <trkpt lat="40.76411" lon="-73.96683"></trkpt>
+    <trkpt lat="40.76399" lon="-73.96691"></trkpt>
+    <trkpt lat="40.76348" lon="-73.96727"></trkpt>
+    <trkpt lat="40.7632" lon="-73.96749"></trkpt>
+    <trkpt lat="40.76302" lon="-73.96762"></trkpt>
+  </trkseg>
+</trk>
+</gpx>
